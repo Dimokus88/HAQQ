@@ -135,10 +135,9 @@ In the ```resources``` field, we set the capacity to be rented. ```2 CPU x 3 GB 
 
 We are waiting for the completion of the deployment.
 
-* In the ```LOGS```  tab , you can view the operation of the node. After full synchronization, a validator will be created (***if it has not been created earlier***) and the node will enter the automatic mode of operation. 
-
 * The next, you need to request tokens to it in [site (guide)](https://docs.haqq.network/testnet/faucet.html) .
 
+* In the ```LOGS```  tab , you can view the operation of the node. After full synchronization, a validator will be created (***if it has not been created earlier***) and the node will enter the automatic mode of operation. 
 
 [Go to start](https://github.com/Dimokus88/HAQQ#HAQQ-validator-node-on-akash-network)
 

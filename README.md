@@ -59,7 +59,7 @@ Before you start - subscribe to our news channels:
 
 > ```LINK_KEY``` -  comment out the env to the priv_validator_key.json. 
 
-In the ```resources``` field, we set the capacity to be rented. ```2 CPU x 3 GB RAM x 40 GB SSD```  for ***HAQQ*** node. 
+In the ```resources``` field, we set the capacity to be rented. ```2 CPU x 4 GB RAM x 200 GB SSD```  for ***HAQQ*** node. 
 
 * Click on ```CREATE DEPLOYMENT``` and we are waiting for the appearance of providers with free capacities (BIDS).
 
@@ -125,7 +125,7 @@ Thus, you will get a link to a direct download of the file:
 * ```MNEMONIС```      -  insert the mnemonic phrase from your wallet ***HAQQ***.
 * ```LINK_KEY``` -  paste the link to the hosted priv_validator_key.json (direct download).
 
-In the ```resources``` field, we set the capacity to be rented. ```2 CPU x 3 GB RAM x 40 GB SSD``` recommended for ***HAQQ*** node. 
+In the ```resources``` field, we set the capacity to be rented. ```2 CPU x 4 GB RAM x 200 GB SSD``` recommended for ***HAQQ*** node. 
 
 * Click on ```CREATE DEPLOYMENT``` and we are waiting for the appearance of providers with free capacities (BIDS).
 
@@ -171,7 +171,7 @@ We are waiting for the completion of the deployment.
 
 > Поле ***LINK_KEY*** -  оставьте закомментированным ссылка на размещенный priv_validator_key.json (прямое скачивание).
 
-Ниже, в поле ```resources``` мы выставляем арендуюмую мощность. для ноды ***HAQQ*** рекомендуется ```2 CPU x 3 GB RAM x 40 GB SSD```.  
+Ниже, в поле ```resources``` мы выставляем арендуюмую мощность. для ноды ***HAQQ*** рекомендуется ```2 CPU x 4 GB RAM x 200 GB SSD```.  
 
 Нажимаем кнопку ```CREATE DEPLOYMENT``` и ждем появления провайдеров, со свободными мощностями (***BIDS***).
 
@@ -239,7 +239,7 @@ We are waiting for the completion of the deployment.
 
 В поле ***LINK_KEY*** -  скопируйте ссылку на размещенный priv_validator_key.json (прямое скачивание). 
 
-Ниже, в поле ```resources``` мы выставляем арендуемую мощность. для ноды ***HAQQ*** рекомендуется ```2 CPU x 3 GB RAM x 40 GB SSD```.
+Ниже, в поле ```resources``` мы выставляем арендуемую мощность. для ноды ***HAQQ*** рекомендуется ```2 CPU x 4 GB RAM x 200 GB SSD```.
 
 Нажимаем кнопку ```CREATE DEPLOYMENT``` и ждем появления провайдеров, со свободными мощностями (***BIDS***).
 

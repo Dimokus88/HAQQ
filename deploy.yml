@@ -60,8 +60,6 @@ profiles:
         
   placement:
     akash: 
-      attributes:
-            
       pricing:
         app:
           denom: uakt

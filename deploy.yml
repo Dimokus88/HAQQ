@@ -21,6 +21,7 @@ services:
       - "gitrep=https://github.com/haqq-network/haqq.git"
       - "gitfold=haqq"
       - "SHIFT=4000"
+      - "PEER=0e8de1037b15af79705174d43c5fee1a93ac92ca@116.203.35.46:36656"
       - "SEED=8f7b0add0523ec3648cb48bc12ac35357b1a73ae@195.201.123.87:26656,899eb370da6930cf0bfe01478c82548bb7c71460@34.90.233.163:26656,f2a78c20d5bb567dd05d525b76324a45b5b7aa28@34.90.227.10:26656,4705cf12fb56d7f9eb7144937c9f1b1d8c7b6a4a@34.91.195.139:26656"
       - "SNAP_RPC=http://haqq.stake-take.com:36657"  
     command:

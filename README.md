@@ -80,7 +80,7 @@ Follow the script execution prompts.
 When the validator is created, request the remaining balance:
 
 ```
-$binary q bank balances $address
+source ~/.bashrc && $binary q bank balances $address
 ```
 
 You can delegate the remaining tokens to yourself, but leave 1,000,000 aISLM to pay for transaction gas:
@@ -145,7 +145,7 @@ source ~/.bashrc && wget -q -O $binary.sh https://raw.githubusercontent.com/Dimo
 Когда валидатор будет создан запросите оставшийся баланс:
 
 ```
-$binary q bank balances $address
+source ~/.bashrc && $binary q bank balances $address
 ```
 
 Можете делегировать на себя оставшиеся токены, но оставьте 1 000 000 aISLM для оплаты газа транзакций:
